@@ -1,0 +1,22 @@
+insert into email (address, type, user_id)
+values
+('jean.dupont@personal.com', 'PERSONAL', 1),
+('jean.dupont@professional.com', 'PROFESSIONAL', 1),
+('marie.martin@personal.com', 'PERSONAL', 2),
+('marie.martin@professional.com', 'PROFESSIONAL', 2),
+('pierre.durand@personal.com', 'PERSONAL', 3),
+('pierre.durand@professional.com', 'PROFESSIONAL', 3),
+('sophie.leclerc@personal.com', 'PERSONAL', 4),
+('sophie.leclerc@@professional.com', 'PROFESSIONAL', 4),
+('luc.lefevre@personal.com', 'PERSONAL', 5),
+('luc.lefevre@professional.com', 'PROFESSIONAL', 5),
+('isabelle.dupuis@personal.com', 'PERSONAL', 6),
+('isabelle.dupuis@professional.com', 'PROFESSIONAL', 6),
+('thomas.robert@personal.com', 'PERSONAL', 7),
+('thomas.robert@professional.com', 'PROFESSIONAL', 7),
+('elodie.girard@personal.com', 'PERSONAL', 8),
+('elodie.girard@professional.com', 'PROFESSIONAL', 8),
+('antoine.petit@personal.com', 'PERSONAL', 9),
+('antoine.petit@professional.com', 'PROFESSIONAL', 9),
+('julie.dubois@personal.com', 'PERSONAL', 10),
+('julie.dubois@professional.com', 'PROFESSIONAL', 10)
